@@ -1,0 +1,24 @@
+# Debug log generated during testing - SHOULD NEVER REACH PRODUCTION
+
+[DEBUG] Initialising connection pool...
+[DEBUG] Loaded config from environment:
+[DEBUG]   AWS_ACCESS_KEY_ID=AKIAEXAMPLEKEYIDXXXX
+[DEBUG]   AWS_SECRET_ACCESS_KEY=ExAmPlE/SeCrEtKeY+WiTh40CharsHerePqRsTu
+[DEBUG]   DATABASE_URL=postgresql://app_user:[email protected]:5432/app_prod
+[DEBUG]   STRIPE_KEY=sk_live_FAKEexampleStripeKeyForTestingOnly
+[DEBUG]   GITHUB_TOKEN=ghp_FAKEtokenExampleForTestingPurposes12
+
+[DEBUG] Loading test fixtures...
+[DEBUG]   Test user 1: email=[email protected], ssn=987-65-4321, card=5425-2334-3010-9903
+[DEBUG]   Test user 2: email=[email protected], ssn=234-56-7890, card=4532-1488-0343-6467
+[DEBUG]   Test user 3: passport_no=A12345678 employee_id=EMP-100234
+
+[DEBUG] Private key loaded:
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAyZ7Q5UeHvVN8kF3qXr8mLpRtY5wSdEf2iUjBhKcVnAxGsHMtNvP
+[... key content truncated for brevity ...]
+-----END RSA PRIVATE KEY-----
+
+[DEBUG] Customer records imported:
+[DEBUG]   CUST-X1Y2Z3A4B5: [email protected], +1-555-867-5309
+[DEBUG]   CUST-M9N8O7P6Q5: [email protected], 415.555.0123
