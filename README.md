@@ -1,6 +1,6 @@
 # Agentic Security Examples
 
-Working reference implementations of the agentic defence model — autonomous security agents
+Working reference implementations of the agentic Defense model — autonomous security agents
 that detect, decide, act, and log, with human oversight designed in by intent rather than added as friction.
 
 These are minimal, runnable examples built to illustrate the core architectural patterns that make
@@ -10,7 +10,7 @@ design, not the line count.
 ## Why These Exist
 
 Modern enterprise security has a structural problem: human-speed response cannot keep pace with
-machine-speed threats. The answer is autonomous defence — but autonomy without governance is
+machine-speed threats. The answer is autonomous Defense — but autonomy without governance is
 just a faster way to get into trouble.
 
 These examples demonstrate the design principles that make autonomy safe:
@@ -57,7 +57,7 @@ dashboard for the security team.
 **Demonstrates:** the reference-not-redaction pattern, swappable vault adapter architecture,
 discoverable secrets registry, runtime resolution, defensive-by-default audit (hashed values).
 
-### [05 — Multi-Agent Authentication Defence](./05-multi-agent-auth-defense/)
+### [05 — Multi-Agent Authentication Defense](./05-multi-agent-auth-defense/)
 
 Multi-agent coordination applied to authentication validation. A coordinator agent dispatches
 auth requests to specialist agents — a Token Validator and a Behavioral Analyst — synthesises
@@ -93,7 +93,7 @@ python3 agent.py            # detect, vault, register, replace
 python3 soc_view.py         # SOC operational view
 python3 resolver.py         # see how apps resolve references
 
-# Multi-agent auth defence
+# Multi-agent auth Defense
 cd 05-multi-agent-auth-defense
 python3 run.py              # process all sample auth requests
 python3 run.py --request REQ-003  # examine one specific scenario
@@ -166,4 +166,4 @@ MIT — use freely, attribution appreciated, no warranty. See [LICENSE](./LICENS
 ## About
 
 Built as reference implementations of the agentic security architecture — the foundation for how
-autonomous defence systems work in regulated enterprise environments.
+autonomous Defense systems work in regulated enterprise environments.
