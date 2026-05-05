@@ -10,7 +10,7 @@ design, not the line count.
 ## Why These Exist
 
 Modern enterprise security has a structural problem: human-speed response cannot keep pace with
-machine-speed threats. The answer is autonomous Defense — but autonomy without governance is
+machine-speed threats. The answer is autonomous defense — but autonomy without governance is
 just a faster way to get into trouble.
 
 These examples demonstrate the design principles that make autonomy safe:
