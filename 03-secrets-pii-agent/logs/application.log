@@ -1,0 +1,137 @@
+2026-04-23 16:08:46 INFO  [auth-service] Token validated for user_id=1409
+2026-04-23 16:12:46 INFO  [request-handler] Processing request from user bob
+2026-04-23 16:23:46 INFO  [request-handler] Processing request from user alice
+2026-04-23 16:24:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 16:33:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 16:40:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 16:45:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 16:51:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 17:04:46 INFO  [request-handler] Processing request from user charlie
+2026-04-23 17:11:46 INFO  [auth-service] Token validated for user_id=6881
+2026-04-23 17:21:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 17:30:46 INFO  [request-handler] Processing request from user alice
+2026-04-23 17:39:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 17:43:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 17:56:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 18:10:46 INFO  [auth-service] Token validated for user_id=7227
+2026-04-23 18:18:46 INFO  [auth-service] Token validated for user_id=3664
+2026-04-23 18:24:46 INFO  [request-handler] Processing request from user bob
+2026-04-23 18:34:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 18:37:46 INFO  [auth-service] Token validated for user_id=7216
+2026-04-23 18:52:46 INFO  [request-handler] Processing request from user bob
+2026-04-23 18:56:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 19:01:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 19:16:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 19:23:46 INFO  [auth-service] Token validated for user_id=3340
+2026-04-23 19:26:46 INFO  [auth-service] Token validated for user_id=9830
+2026-04-23 19:38:46 INFO  [auth-service] Token validated for user_id=7543
+2026-04-23 19:42:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 19:44:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 19:55:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 19:57:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 20:05:46 INFO  [request-handler] Processing request from user charlie
+2026-04-23 20:16:46 INFO  [request-handler] Processing request from user charlie
+2026-04-23 20:21:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 20:22:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 20:31:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 20:41:46 INFO  [auth-service] Token validated for user_id=3504
+2026-04-23 20:54:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 21:09:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 21:10:46 INFO  [auth-service] Token validated for user_id=6947
+2026-04-23 21:14:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 21:16:46 INFO  [request-handler] Processing request from user alice
+2026-04-23 21:29:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 21:38:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 21:52:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 22:05:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 22:16:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 22:24:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 22:26:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-23 22:35:46 INFO  [request-handler] Processing request from user bob
+2026-04-23 22:37:46 INFO  [request-handler] Processing request from user alice
+2026-04-23 22:52:46 INFO  [request-handler] Processing request from user alice
+2026-04-23 23:01:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 23:05:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 23:18:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 23:20:46 INFO  [auth-service] Token validated for user_id=8062
+2026-04-23 23:27:46 INFO  [request-handler] Processing request from user diana
+2026-04-23 23:38:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 23:50:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-23 23:54:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-23 23:57:46 INFO  [auth-service] Token validated for user_id=4006
+2026-04-24 00:05:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-24 00:18:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-24 00:32:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-24 00:35:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-24 00:39:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-24 00:46:46 INFO  [auth-service] Token validated for user_id=7396
+2026-04-24 01:01:46 INFO  [api] GET /api/v1/users/profile returned 200
+2026-04-24 01:13:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-24 01:18:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-24 01:30:46 INFO  [request-handler] Processing request from user alice
+2026-04-24 01:31:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-24 01:34:46 INFO  [request-handler] Processing request from user alice
+2026-04-24 01:48:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-24 01:50:46 INFO  [request-handler] Processing request from user bob
+2026-04-24 02:05:46 DEBUG [cache] Cache hit ratio: 0.87
+2026-04-24 02:07:46 INFO  [auth-service] Token validated for user_id=9565
+2026-04-24 02:22:46 INFO  [auth-service] Token validated for user_id=4346
+2026-04-24 02:26:46 DEBUG [db-pool] Connection acquired (active=12, idle=8)
+2026-04-24 02:37:46 INFO  [auth-service] Token validated for user_id=8491
+2026-04-23 19:57:46 ERROR [aws-client] Failed to connect: aws_access_key_id=AKIAIOSFODNN7EXAMPLE aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+2026-04-23 19:59:46 INFO  [config] Loaded credentials: AKIA1A2B3C4D5E6F7G8H
+2026-04-23 20:57:46 INFO  [db-init] Connecting to postgres://admin:[email protected]:5432/production
+2026-04-23 21:00:46 ERROR [db-conn] Connection refused: postgresql://dbuser:[email protected]/userdb
+2026-04-23 21:57:46 DEBUG [http] Request headers: Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c
+2026-04-23 22:12:46 INFO  [github-sync] Using token ghp_aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrR for repo sync
+2026-04-23 22:17:46 INFO  [slack] Posting alert via xoxb-1234567890-abcdefghijklmnop
+2026-04-23 22:57:46 ERROR [payment] Charge failed for stripe key sk_live_51HJxYzKjLmNoPqRsTuVwXyZaBcDeFgHi
+2026-04-23 23:57:46 INFO  [order-service] Order created for [email protected], phone 408-555-1234, card 4532-1488-0343-6467
+2026-04-24 00:07:46 ERROR [validation] Failed validation for user: ssn=123-45-6789, dob=1985-03-15
+2026-04-24 00:57:46 INFO  [billing] Invoice generated for CUST-A8B9C0D1E2 amount=$1,247.50
+2026-04-24 01:57:46 WARN  [hr-sync] Sync failed for EMP-487293 ([email protected])
+2026-04-24 02:57:46 DEBUG [test-fixtures] Loaded test user with password=SuperSecret123!
+2026-04-24 03:27:46 INFO  [auth] Failed login - password='admin123' rejected
+2026-04-24 03:57:46 INFO  [external-api] Calling vendor with api_key: 9f8e7d6c5b4a3210fedcba9876543210
+2026-04-24 04:57:46 INFO  [transfer] Wire transfer to GB29NWBK60161331926819 completed
+2026-04-24 05:57:46 INFO  [firewall] Connection from 203.0.113.45 to internal 10.0.1.50
+2026-04-24 06:59:46 INFO  [health-check] Status OK, uptime=2220s
+2026-04-24 07:07:46 INFO  [health-check] Status OK, uptime=82416s
+2026-04-24 07:17:46 INFO  [health-check] Status OK, uptime=14104s
+2026-04-24 07:19:46 INFO  [health-check] Status OK, uptime=71468s
+2026-04-24 07:23:46 INFO  [health-check] Status OK, uptime=67307s
+2026-04-24 07:28:46 INFO  [health-check] Status OK, uptime=18361s
+2026-04-24 07:34:46 INFO  [health-check] Status OK, uptime=10016s
+2026-04-24 07:38:46 INFO  [health-check] Status OK, uptime=49434s
+2026-04-24 07:43:46 INFO  [health-check] Status OK, uptime=21676s
+2026-04-24 07:51:46 INFO  [health-check] Status OK, uptime=72200s
+2026-04-24 07:56:46 INFO  [health-check] Status OK, uptime=81173s
+2026-04-24 08:05:46 INFO  [health-check] Status OK, uptime=2025s
+2026-04-24 08:14:46 INFO  [health-check] Status OK, uptime=40240s
+2026-04-24 08:16:46 INFO  [health-check] Status OK, uptime=18601s
+2026-04-24 08:21:46 INFO  [health-check] Status OK, uptime=16129s
+2026-04-24 08:23:46 INFO  [health-check] Status OK, uptime=98310s
+2026-04-24 08:32:46 INFO  [health-check] Status OK, uptime=21374s
+2026-04-24 08:37:46 INFO  [health-check] Status OK, uptime=37930s
+2026-04-24 08:47:46 INFO  [health-check] Status OK, uptime=28607s
+2026-04-24 08:53:46 INFO  [health-check] Status OK, uptime=27685s
+2026-04-24 08:58:46 INFO  [health-check] Status OK, uptime=67244s
+2026-04-24 09:06:46 INFO  [health-check] Status OK, uptime=33914s
+2026-04-24 09:07:46 INFO  [health-check] Status OK, uptime=13097s
+2026-04-24 09:14:46 INFO  [health-check] Status OK, uptime=37265s
+2026-04-24 09:15:46 INFO  [health-check] Status OK, uptime=1464s
+2026-04-24 09:21:46 INFO  [health-check] Status OK, uptime=18146s
+2026-04-24 09:26:46 INFO  [health-check] Status OK, uptime=22178s
+2026-04-24 09:34:46 INFO  [health-check] Status OK, uptime=73309s
+2026-04-24 09:41:46 INFO  [health-check] Status OK, uptime=74519s
+2026-04-24 09:42:46 INFO  [health-check] Status OK, uptime=15663s
+2026-04-24 09:44:46 INFO  [health-check] Status OK, uptime=91573s
+2026-04-24 09:47:46 INFO  [health-check] Status OK, uptime=72511s
+2026-04-24 09:48:46 INFO  [health-check] Status OK, uptime=49393s
+2026-04-24 09:58:46 INFO  [health-check] Status OK, uptime=73420s
+2026-04-24 10:01:46 INFO  [health-check] Status OK, uptime=57333s
+2026-04-24 10:04:46 INFO  [health-check] Status OK, uptime=6482s
+2026-04-24 10:09:46 INFO  [health-check] Status OK, uptime=48795s
+2026-04-24 10:10:46 INFO  [health-check] Status OK, uptime=47898s
+2026-04-24 10:14:46 INFO  [health-check] Status OK, uptime=90399s
+2026-04-24 10:18:46 INFO  [health-check] Status OK, uptime=88416s
