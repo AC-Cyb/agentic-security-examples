@@ -1,0 +1,180 @@
+Apr 18 10:47:43 firewall: ALLOW src=10.0.1.106 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=8268 bytes_in=378060
+Apr 18 11:06:46 firewall: ALLOW src=10.0.2.128 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=8759 bytes_in=387137
+Apr 18 11:28:12 firewall: ALLOW src=10.0.5.236 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=23969 bytes_in=68666
+Apr 18 11:50:56 firewall: ALLOW src=10.0.5.137 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=5549 bytes_in=275810
+Apr 18 12:53:28 firewall: ALLOW src=10.0.2.24 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=38123 bytes_in=425346
+Apr 18 13:17:17 firewall: ALLOW src=10.0.2.34 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=47369 bytes_in=229537
+Apr 18 13:52:38 firewall: ALLOW src=10.0.5.236 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=6666 bytes_in=444916
+Apr 18 18:21:32 firewall: ALLOW src=10.0.3.181 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=36673 bytes_in=349422
+Apr 18 19:04:30 firewall: ALLOW src=10.0.5.228 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=29537 bytes_in=309831
+Apr 18 22:01:49 firewall: ALLOW src=10.0.5.236 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=12730 bytes_in=495828
+Apr 18 22:03:31 firewall: ALLOW src=10.0.1.83 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=47537 bytes_in=110052
+Apr 18 22:10:29 firewall: ALLOW src=10.0.2.34 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=17560 bytes_in=313559
+Apr 18 23:56:37 firewall: ALLOW src=10.0.5.14 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=23240 bytes_in=29179
+Apr 19 00:07:54 firewall: ALLOW src=10.0.1.106 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=21441 bytes_in=28265
+Apr 19 00:48:27 firewall: ALLOW src=10.0.2.34 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=22138 bytes_in=279291
+Apr 19 01:06:35 firewall: ALLOW src=10.0.5.120 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=38193 bytes_in=97336
+Apr 19 01:14:45 firewall: ALLOW src=10.0.1.219 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=22782 bytes_in=451425
+Apr 19 10:04:30 firewall: ALLOW src=10.0.1.126 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=37609 bytes_in=328340
+Apr 19 10:32:41 firewall: ALLOW src=10.0.5.236 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=38441 bytes_in=183170
+Apr 19 10:38:52 firewall: ALLOW src=10.0.1.219 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=43266 bytes_in=123303
+Apr 19 10:43:59 firewall: ALLOW src=10.0.5.105 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=19247 bytes_in=300577
+Apr 19 12:11:25 firewall: ALLOW src=10.0.2.34 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=40239 bytes_in=392898
+Apr 19 12:28:31 firewall: ALLOW src=10.0.5.14 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=21471 bytes_in=119067
+Apr 19 14:42:01 firewall: ALLOW src=10.0.1.126 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=3373 bytes_in=49572
+Apr 19 15:48:38 firewall: ALLOW src=10.0.1.126 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=44386 bytes_in=124382
+Apr 19 16:10:25 firewall: ALLOW src=10.0.1.219 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=17292 bytes_in=91061
+Apr 19 18:11:54 firewall: ALLOW src=10.0.5.105 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=10632 bytes_in=132651
+Apr 19 18:28:30 firewall: ALLOW src=10.0.2.34 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=42935 bytes_in=418462
+Apr 19 19:12:08 firewall: ALLOW src=10.0.1.126 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=25651 bytes_in=433349
+Apr 19 22:05:07 firewall: ALLOW src=10.0.5.14 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=35772 bytes_in=72182
+Apr 19 22:11:49 firewall: ALLOW src=10.0.5.105 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=6790 bytes_in=16263
+Apr 19 23:10:10 firewall: ALLOW src=10.0.5.120 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=1465 bytes_in=99958
+Apr 20 00:17:32 firewall: ALLOW src=10.0.5.105 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=20686 bytes_in=480270
+Apr 20 01:52:21 firewall: ALLOW src=10.0.5.236 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=47935 bytes_in=229350
+Apr 20 10:58:26 firewall: ALLOW src=10.0.2.24 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=14854 bytes_in=470860
+Apr 20 11:03:43 firewall: ALLOW src=10.0.5.228 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=12635 bytes_in=13784
+Apr 20 11:09:05 firewall: ALLOW src=10.0.2.34 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=10724 bytes_in=113952
+Apr 20 12:37:41 firewall: ALLOW src=10.0.5.228 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=17480 bytes_in=147863
+Apr 20 13:51:33 firewall: ALLOW src=10.0.5.228 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=9263 bytes_in=56218
+Apr 20 13:56:58 firewall: ALLOW src=10.0.5.236 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=16529 bytes_in=24331
+Apr 20 14:09:30 firewall: ALLOW src=10.0.4.110 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=17601 bytes_in=476872
+Apr 20 15:19:46 firewall: ALLOW src=10.0.2.128 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=22195 bytes_in=485238
+Apr 20 16:13:36 firewall: ALLOW src=10.0.5.105 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=25039 bytes_in=160004
+Apr 20 16:26:30 firewall: ALLOW src=10.0.2.128 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=31922 bytes_in=79251
+Apr 20 18:28:54 firewall: ALLOW src=10.0.2.128 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=23973 bytes_in=176485
+Apr 20 21:04:36 firewall: ALLOW src=10.0.5.120 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=21899 bytes_in=164338
+Apr 20 21:11:06 firewall: ALLOW src=10.0.1.106 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=27661 bytes_in=245709
+Apr 20 22:00:43 firewall: ALLOW src=10.0.2.128 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=20433 bytes_in=15848
+Apr 20 22:01:10 firewall: ALLOW src=10.0.5.236 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=41890 bytes_in=242729
+Apr 20 22:35:57 firewall: ALLOW src=10.0.1.219 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=41471 bytes_in=375127
+Apr 20 23:13:39 firewall: ALLOW src=10.0.5.236 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=35047 bytes_in=336205
+Apr 20 23:17:18 firewall: ALLOW src=10.0.1.219 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=6770 bytes_in=82785
+Apr 21 00:24:05 firewall: ALLOW src=10.0.2.128 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=30543 bytes_in=234171
+Apr 21 01:22:44 firewall: ALLOW src=10.0.5.228 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=17191 bytes_in=438752
+Apr 21 01:28:38 firewall: ALLOW src=10.0.2.128 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=7555 bytes_in=351643
+Apr 21 01:32:27 firewall: ALLOW src=10.0.2.128 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=44760 bytes_in=378230
+Apr 21 07:20:46 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=21 proto=tcp reason=no_rule
+Apr 21 07:20:48 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=22 proto=tcp reason=no_rule
+Apr 21 07:20:50 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=23 proto=tcp reason=no_rule
+Apr 21 07:20:52 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=25 proto=tcp reason=no_rule
+Apr 21 07:20:54 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=53 proto=tcp reason=no_rule
+Apr 21 07:20:56 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=80 proto=tcp reason=no_rule
+Apr 21 07:20:58 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=110 proto=tcp reason=no_rule
+Apr 21 07:21:00 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=135 proto=tcp reason=no_rule
+Apr 21 07:21:02 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=139 proto=tcp reason=no_rule
+Apr 21 07:21:04 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=143 proto=tcp reason=no_rule
+Apr 21 07:21:06 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=443 proto=tcp reason=no_rule
+Apr 21 07:21:08 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=445 proto=tcp reason=no_rule
+Apr 21 07:21:10 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=993 proto=tcp reason=no_rule
+Apr 21 07:21:12 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=995 proto=tcp reason=no_rule
+Apr 21 07:21:14 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=1433 proto=tcp reason=no_rule
+Apr 21 07:21:16 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=1521 proto=tcp reason=no_rule
+Apr 21 07:21:18 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=3306 proto=tcp reason=no_rule
+Apr 21 07:21:20 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=3389 proto=tcp reason=no_rule
+Apr 21 07:21:22 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=5432 proto=tcp reason=no_rule
+Apr 21 07:21:24 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=5900 proto=tcp reason=no_rule
+Apr 21 07:21:26 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=8080 proto=tcp reason=no_rule
+Apr 21 07:21:28 firewall: BLOCK src=91.243.59.27 dst=10.0.1.45 dport=8443 proto=tcp reason=no_rule
+Apr 21 10:20:14 firewall: ALLOW src=10.0.5.137 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=8688 bytes_in=494491
+Apr 21 10:59:13 firewall: ALLOW src=10.0.5.137 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=35799 bytes_in=158480
+Apr 21 11:48:33 firewall: ALLOW src=10.0.1.126 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=27788 bytes_in=175333
+Apr 21 12:10:33 firewall: ALLOW src=10.0.4.110 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=37072 bytes_in=293154
+Apr 21 12:38:53 firewall: ALLOW src=10.0.1.106 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=2992 bytes_in=358479
+Apr 21 15:12:28 firewall: ALLOW src=10.0.5.236 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=17439 bytes_in=261209
+Apr 21 15:47:41 firewall: ALLOW src=10.0.2.128 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=29581 bytes_in=42604
+Apr 21 15:54:52 firewall: ALLOW src=10.0.5.105 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=28873 bytes_in=253087
+Apr 21 20:21:04 firewall: ALLOW src=10.0.4.110 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=36087 bytes_in=14067
+Apr 21 21:04:11 firewall: ALLOW src=10.0.2.128 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=1212 bytes_in=481182
+Apr 21 21:34:14 firewall: ALLOW src=10.0.5.137 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=32990 bytes_in=189333
+Apr 21 22:12:17 firewall: ALLOW src=10.0.1.219 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=16346 bytes_in=166170
+Apr 21 22:17:36 firewall: ALLOW src=10.0.5.137 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=5818 bytes_in=187093
+Apr 21 23:04:06 firewall: ALLOW src=10.0.5.14 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=7598 bytes_in=419739
+Apr 21 23:49:18 firewall: ALLOW src=10.0.1.83 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=46405 bytes_in=466150
+Apr 22 00:03:53 firewall: ALLOW src=10.0.1.83 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=45811 bytes_in=345572
+Apr 22 00:21:23 firewall: ALLOW src=10.0.2.24 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=29496 bytes_in=231031
+Apr 22 00:44:32 firewall: ALLOW src=10.0.2.128 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=40646 bytes_in=7446
+Apr 22 01:49:22 firewall: ALLOW src=10.0.5.120 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=43993 bytes_in=174439
+Apr 22 01:49:47 firewall: ALLOW src=10.0.5.228 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=29360 bytes_in=19068
+Apr 22 10:07:38 firewall: ALLOW src=10.0.1.126 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=42967 bytes_in=178758
+Apr 22 10:08:04 firewall: ALLOW src=10.0.1.126 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=41385 bytes_in=343160
+Apr 22 10:15:43 firewall: ALLOW src=10.0.4.110 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=36950 bytes_in=166166
+Apr 22 10:22:07 firewall: ALLOW src=10.0.2.34 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=34851 bytes_in=86318
+Apr 22 10:59:04 firewall: ALLOW src=10.0.5.14 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=19042 bytes_in=7315
+Apr 22 11:56:56 firewall: ALLOW src=10.0.2.128 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=20117 bytes_in=287343
+Apr 22 12:15:02 firewall: ALLOW src=10.0.3.181 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=33382 bytes_in=455496
+Apr 22 12:44:20 firewall: ALLOW src=10.0.1.106 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=46691 bytes_in=336313
+Apr 22 13:54:16 firewall: ALLOW src=10.0.2.24 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=8631 bytes_in=199796
+Apr 22 14:31:38 firewall: ALLOW src=10.0.4.110 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=49889 bytes_in=38178
+Apr 22 14:38:15 firewall: ALLOW src=10.0.5.236 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=21162 bytes_in=441134
+Apr 22 15:01:05 firewall: ALLOW src=10.0.2.24 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=8368 bytes_in=239214
+Apr 22 17:10:13 firewall: ALLOW src=10.0.5.228 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=22020 bytes_in=121994
+Apr 22 17:18:00 firewall: ALLOW src=10.0.5.105 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=19330 bytes_in=168946
+Apr 22 17:19:46 firewall: ALLOW src=10.0.3.89 dst=51.91.124.36 dport=3333 proto=tcp host=xmr-pool.minexmr.com bytes_out=125000 bytes_in=87000
+Apr 22 17:34:46 firewall: ALLOW src=10.0.3.89 dst=51.91.124.36 dport=3333 proto=tcp host=xmr-pool.minexmr.com bytes_out=215000 bytes_in=156000
+Apr 22 19:37:32 firewall: ALLOW src=10.0.2.24 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=37512 bytes_in=264980
+Apr 22 20:07:19 firewall: ALLOW src=10.0.5.236 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=27588 bytes_in=305741
+Apr 22 20:13:55 firewall: ALLOW src=10.0.4.110 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=2386 bytes_in=359194
+Apr 22 21:37:14 firewall: ALLOW src=10.0.4.110 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=5786 bytes_in=353121
+Apr 22 22:35:40 firewall: ALLOW src=10.0.1.83 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=4312 bytes_in=18863
+Apr 22 22:47:11 firewall: ALLOW src=10.0.1.106 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=1849 bytes_in=332995
+Apr 23 00:46:21 firewall: ALLOW src=10.0.2.34 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=48498 bytes_in=137091
+Apr 23 01:23:39 firewall: ALLOW src=10.0.2.128 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=44753 bytes_in=71079
+Apr 23 01:24:04 firewall: ALLOW src=10.0.5.14 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=4510 bytes_in=208976
+Apr 23 01:34:50 firewall: ALLOW src=10.0.1.219 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=10594 bytes_in=68901
+Apr 23 05:42:46 firewall: ALLOW src=10.0.1.45 dst=185.220.101.45 dport=443 proto=tcp bytes_out=4823651200 bytes_in=2048
+Apr 23 12:25:05 firewall: ALLOW src=10.0.1.126 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=40646 bytes_in=221149
+Apr 23 12:55:08 firewall: ALLOW src=10.0.2.34 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=2198 bytes_in=240269
+Apr 23 13:27:36 firewall: ALLOW src=10.0.4.110 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=27586 bytes_in=5800
+Apr 23 15:28:12 firewall: ALLOW src=10.0.3.181 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=36296 bytes_in=30401
+Apr 23 17:38:47 firewall: ALLOW src=10.0.5.228 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=27013 bytes_in=172259
+Apr 23 18:48:47 firewall: ALLOW src=10.0.5.105 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=15403 bytes_in=173309
+Apr 23 19:33:34 firewall: ALLOW src=10.0.4.110 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=18198 bytes_in=74715
+Apr 23 19:56:08 firewall: ALLOW src=10.0.4.110 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=24903 bytes_in=282688
+Apr 23 20:12:02 firewall: ALLOW src=10.0.1.106 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=48384 bytes_in=290546
+Apr 23 21:44:19 firewall: ALLOW src=10.0.1.106 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=7135 bytes_in=179091
+Apr 23 22:15:58 firewall: ALLOW src=10.0.5.120 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=11230 bytes_in=390130
+Apr 23 23:49:08 firewall: ALLOW src=10.0.2.128 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=8334 bytes_in=421412
+Apr 24 00:26:18 firewall: ALLOW src=10.0.5.236 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=37567 bytes_in=85683
+Apr 24 01:34:42 firewall: ALLOW src=10.0.2.128 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=14111 bytes_in=51305
+Apr 24 01:37:12 firewall: ALLOW src=10.0.1.106 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=43598 bytes_in=198565
+Apr 24 10:13:37 firewall: ALLOW src=10.0.5.14 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=18579 bytes_in=209923
+Apr 24 10:33:13 firewall: ALLOW src=10.0.1.83 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=37742 bytes_in=160729
+Apr 24 12:42:23 firewall: ALLOW src=10.0.1.126 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=38669 bytes_in=10570
+Apr 24 12:58:07 firewall: ALLOW src=10.0.1.126 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=30166 bytes_in=167267
+Apr 24 13:01:15 firewall: ALLOW src=10.0.5.120 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=13319 bytes_in=490375
+Apr 24 13:22:34 firewall: ALLOW src=10.0.2.24 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=39361 bytes_in=10035
+Apr 24 13:30:10 firewall: ALLOW src=10.0.2.24 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=20322 bytes_in=320687
+Apr 24 13:40:56 firewall: ALLOW src=10.0.5.228 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=25168 bytes_in=466913
+Apr 24 15:30:40 firewall: ALLOW src=10.0.1.83 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=47013 bytes_in=265638
+Apr 24 16:19:38 firewall: ALLOW src=10.0.5.236 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=13319 bytes_in=275364
+Apr 24 16:23:13 firewall: ALLOW src=10.0.1.106 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=39316 bytes_in=80190
+Apr 24 16:23:15 firewall: ALLOW src=10.0.5.228 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=10363 bytes_in=480235
+Apr 24 17:16:53 firewall: ALLOW src=10.0.5.120 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=3411 bytes_in=161947
+Apr 24 17:47:15 firewall: ALLOW src=10.0.1.83 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=18414 bytes_in=248367
+Apr 24 18:02:51 firewall: ALLOW src=10.0.3.181 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=17829 bytes_in=354201
+Apr 24 18:45:12 firewall: ALLOW src=10.0.1.219 dst=140.82.121.4 dport=443 proto=tcp host=github.com bytes_out=2489 bytes_in=66094
+Apr 24 18:50:07 firewall: ALLOW src=10.0.1.83 dst=104.244.42.65 dport=443 proto=tcp host=twitter.com bytes_out=5729 bytes_in=261924
+Apr 24 19:26:02 firewall: ALLOW src=10.0.5.120 dst=31.13.65.36 dport=443 proto=tcp host=facebook.com bytes_out=42853 bytes_in=320425
+Apr 24 21:02:38 firewall: ALLOW src=10.0.2.128 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=20043 bytes_in=368734
+Apr 24 21:21:59 firewall: ALLOW src=10.0.3.181 dst=172.217.16.46 dport=443 proto=tcp host=google.com bytes_out=15728 bytes_in=42440
+Apr 24 22:44:31 firewall: ALLOW src=10.0.5.236 dst=162.255.119.84 dport=443 proto=tcp host=slack.com bytes_out=2677 bytes_in=454081
+Apr 24 22:47:09 firewall: ALLOW src=10.0.1.126 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=41961 bytes_in=145842
+Apr 25 00:30:59 firewall: ALLOW src=10.0.2.128 dst=13.226.45.78 dport=443 proto=tcp host=aws.amazon.com bytes_out=16456 bytes_in=294666
+Apr 25 00:44:34 firewall: ALLOW src=10.0.2.24 dst=199.232.69.194 dport=443 proto=tcp host=stackoverflow.com bytes_out=45351 bytes_in=76055
+Apr 25 01:17:19 firewall: ALLOW src=10.0.1.83 dst=13.107.42.14 dport=443 proto=tcp host=office.com bytes_out=24766 bytes_in=19260
+Apr 25 02:47:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:48:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:49:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:50:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:51:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:52:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:53:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:54:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:55:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:56:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:57:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:58:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 02:59:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 03:00:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
+Apr 25 03:01:46 firewall: ALLOW src=10.0.2.137 dst=194.165.16.118 dport=443 proto=tcp bytes_out=412 bytes_in=128
