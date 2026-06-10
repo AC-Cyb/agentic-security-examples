@@ -10,7 +10,7 @@ security team.
 
 ## How it works
 
-![Architecture diagram]
+![Architecture diagram-Policy agent Architecture.png]
 
 The rule layer is deterministic on purpose — it's fast, free, and reliable.
 The LLM layer only runs on confirmed findings, so cost stays bounded by the
