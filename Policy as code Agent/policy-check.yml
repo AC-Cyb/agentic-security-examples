@@ -1,0 +1,65 @@
+name: Policy Check
+
+on:
+  pull_request:
+    paths:
+      - "**/*.tf"
+      - "**/*.yaml"
+      - "**/*.yml"
+
+permissions:
+  contents: read
+  pull-requests: write   # so we can comment on the PR
+
+jobs:
+  policy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # need history to diff against the base
+
+      - name: Get changed files
+        id: changed
+        run: |
+          git diff --name-only \
+            origin/${{ github.base_ref }}...HEAD \
+            -- '*.tf' '*.yaml' '*.yml' > changed.txt
+          echo "count=$(wc -l < changed.txt)" >> "$GITHUB_OUTPUT"
+          cat changed.txt
+
+      - name: Skip if no IaC changes
+        if: steps.changed.outputs.count == '0'
+        run: echo "No IaC files changed; skipping."
+
+      - name: Set up Python
+        if: steps.changed.outputs.count != '0'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install agent
+        if: steps.changed.outputs.count != '0'
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run policy agent
+        if: steps.changed.outputs.count != '0'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          xargs -a changed.txt python policy_agent.py \
+            --format markdown \
+            --output report.md \
+            --fail-on high || echo "violations=true" >> "$GITHUB_ENV"
+
+      - name: Comment on PR
+        if: steps.changed.outputs.count != '0'
+        uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: policy-check
+          path: report.md
+
+      - name: Fail if high-severity findings
+        if: env.violations == 'true'
+        run: exit 1

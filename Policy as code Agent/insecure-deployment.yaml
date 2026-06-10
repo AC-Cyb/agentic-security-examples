@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: api
+  template:
+    metadata:
+      labels:
+        app: api
+    spec:
+      hostNetwork: true
+      volumes:
+        - name: host-root
+          hostPath:
+            path: /
+      containers:
+        - name: api
+          image: company/api:latest
+          securityContext:
+            privileged: true
+            runAsUser: 0
+          ports:
+            - containerPort: 8080
